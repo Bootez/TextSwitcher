@@ -1,0 +1,4 @@
+TextSwitcher
+============
+
+Android TextSwitcher Test
